@@ -1,0 +1,14 @@
+.clicker {
+    background-color: black;
+    color: white;
+}
+
+.clickerer {
+    background-color: yellow;
+}
+
+.clicker,
+.clickerer {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
